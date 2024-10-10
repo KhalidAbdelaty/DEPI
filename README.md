@@ -70,9 +70,9 @@ I would like to express my sincere gratitude to my team members for their invalu
 
 * **Mohamed Zabady:** [GitHub Link - https://github.com/zabady9] - Handled the machine learning aspects of the project.
 * **Yasser Elsayed:** [GitHub Link - https://github.com/yasserelsayed7] -  Managed the Azure Data Factory pipeline development
-* **Ziad Elsayed:** [GitHub Link -  ] -  Contributed to the data transformation process in Databricks
+* **Ziad Elsayed:** [GitHub Link - https://github.com/zyadhozain96] -  Contributed to the data transformation process in Databricks
 * **Abd-Alaah Mostafa:** [GitHub Link - https://github.com/bedoo123] - Assisted with data warehouse design in Azure Synapse
-* **Saber Elsayed:** [GitHub Link - ] -  Supported the Power BI dashboard development
+* **Saber Elsayed:** [GitHub Link - https://github.com/Saber30454] -  Supported the Power BI dashboard development
 
 
 Their dedication, collaboration, and insightful feedback were instrumental in the successful completion of this project. I truly appreciate their support and teamwork.
