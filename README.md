@@ -39,9 +39,9 @@ This project involved the following steps:
 
 9. **Machine Learning Model Development:**  A machine learning model was developed to predict Uber fares based on various features. The model development process, including data preprocessing, feature engineering, model selection, training, evaluation, and hyperparameter tuning, is documented in the `UberML.ipynb` notebook.  XGBoost was ultimately chosen as the best performing model, achieving an R-squared score of 0.84. The trained model was saved as `uber_fare_prediction_model_improved.joblib`.
 
-10. **Dashboard Creation:** Finally, a Power BI dashboard ([Uber Dashboard.pbix](Dashboard/Uber Dashboard.pbix)) was created based on the `UberTable_Analytics` table in the DWH. This dashboard provides interactive visualizations and insights derived from the processed data.
+10. **Dashboard Creation:** Finally, a Power BI dashboard ([Uber Dashboard.pbix](https://github.com/KhalidAbdelaty/DEPI/blob/main/Dashboard/Uber%20Dashboard.pbix)) was created based on the `UberTable_Analytics` table in the DWH. This dashboard provides interactive visualizations and insights derived from the processed data.
 
-
+   ![Uber Dashboard.pbix](https://github.com/KhalidAbdelaty/DEPI/blob/main/Dashboard/Dashboard.png)
 
 ## Machine Learning Model Details
 
